@@ -35,7 +35,7 @@ if #available(iOS 9, *) {
     stackView.frame = CGRectMake(0, 0, imageView1.frame.size.width * 3, imageView1.frame.size.height * 3)
     
     slide1.addSubview(stackView)
-    XCPShowView("", view: slide1)
+    XCPShowView("Stack Axis Animation", view: slide1)
     flipAxis(imageView1, stackView:stackView)
 }
 //: [Next](@next)

@@ -36,6 +36,6 @@ if #available(iOS 9, *) {
     stackViewContainer.addArrangedSubview(stackViewColumn1)
     stackViewContainer.addArrangedSubview(stackViewColumn2)
     
-    XCPShowView("", view: stackViewContainer)
+    XCPShowView("Nested Stacks", view: stackViewContainer)
 }
 //: [Next](@next)
