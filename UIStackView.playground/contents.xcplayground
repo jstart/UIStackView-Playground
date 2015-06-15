@@ -3,5 +3,6 @@
     <pages>
         <page name='Stack Axis Animation'/>
         <page name='Nested Stacks'/>
+        <page name='Practical Stacks'/>
     </pages>
 </playground>
