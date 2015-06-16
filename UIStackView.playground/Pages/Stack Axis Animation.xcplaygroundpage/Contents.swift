@@ -18,8 +18,12 @@ func flipAxis(imageView1: UIImageView, stackView:UIStackView){
     UIView.animateWithDuration(1.0, delay: 1.0, options:.CurveEaseInOut, animations: {
                 stackView.axis = .Horizontal
                 }, completion: { _ in
-                UIView.animateWithDuration(1.0, animations: {
+                    UIView.animateWithDuration(1.0, delay:0.1, options:.CurveEaseInOut, animations: {
                         stackView.axis = .Vertical
+                        }, completion: { _ in
+                            UIView.animateWithDuration(1.0, animations: {
+                                imageView3.hidden = true
+                            })
                         })
             })
 }
