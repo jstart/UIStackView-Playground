@@ -1,5 +1,4 @@
 A playground demonstrating some of the key features of UIStackView
-
 [Follow me on Twitter @iAmChrisTruman](https://twitter.com/iAmChrisTruman) if you have stack view questions.
 ## All properties are animatable
 ![](playground.gif)
