@@ -1,7 +1,6 @@
 //: ## I ♥️ [UIStackView](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIStackView_Class_Reference/index.html#//apple_ref/c/tdef/UIStackViewDistribution)
 import UIKit
 import XCPlayground
-
 //: Create 3 image views and create a view that can contain all three views horizontally and veritically.
 var imageView1 = UIImageView(image: UIImage(named: "headshot")!)
 var imageView2 = UIImageView(image: UIImage(named: "headshot")!)
