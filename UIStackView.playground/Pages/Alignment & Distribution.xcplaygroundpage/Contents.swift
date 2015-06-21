@@ -1,9 +1,7 @@
 //: [Previous](@previous)
-
+//: ## Alignment & Distribution
 import UIKit
 import XCPlayground
-
-var str = "Hello, playground"
 
 var redView = smallViewWithColor(.redColor())
 var blueView = smallViewWithColor(.blueColor())

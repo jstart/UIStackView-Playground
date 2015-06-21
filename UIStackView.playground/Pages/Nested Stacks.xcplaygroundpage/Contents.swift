@@ -1,5 +1,5 @@
 //: [Previous](@previous)
-//: # Nested Stacks
+//: ## Nested Stacks
 
 import UIKit
 import XCPlayground

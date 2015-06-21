@@ -1,5 +1,5 @@
 //: [Previous](@previous)
-//: # Practical Stack Views
+//: ## Practical Stack Views
 import UIKit
 import XCPlayground
 //: To use a XIB in a playground you can recompile with this command:
