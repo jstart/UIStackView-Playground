@@ -1,11 +1,11 @@
 [Follow me on Twitter @iAmChrisTruman](https://twitter.com/iAmChrisTruman) if you have stack view questions.
-## All properties are animatable
+### All properties are animatable
 ![](Screenshots/playground.gif)
 
-## Stack views can be 'nested' inside each other
+### Stack views can be 'nested' inside each other
 ![](Screenshots/nested.png)
 
-## Stack views make Interface Builder simple
+### Stack views make Interface Builder simple
 ![](Screenshots/nib.png)
 
 UIStackView has been backported to iOS 7 here:
