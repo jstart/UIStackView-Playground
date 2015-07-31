@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
     <pages>
-        <page name='Stack Axis Animation'/>
+        <page name='Good Old Days'/>
+        <page name='Make It Stack'/>
+        <page name='AutoLayout is Hard'/>
         <page name='Nested Stacks'/>
-        <page name='Practical Stacks'/>
         <page name='Alignment &amp; Distribution'/>
+        <page name='Stack Axis Animation'/>
+        <page name='Practical Stacks'/>
+        <page name='Contact'/>
     </pages>
 </playground>
